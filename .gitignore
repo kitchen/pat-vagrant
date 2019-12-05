@@ -1,0 +1,4 @@
+.vagrant/
+event.log
+pat.log
+mailbox/
